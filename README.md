@@ -18,7 +18,9 @@ This process is highly mathematical and can get quite confusing. Luckily Python 
 
 ## Step 4 - Over to you
 
-Please feel free to continue to edit the code and improve its usability and security. There are plenty of additional things you could try to implement, including wrapping the script in a Flask server, checking for multiple login attempts and a facility to reset a password. What else can you make the code do?
+Please feel free to continue to edit the code and improve its usability and security. 
+
+There are plenty of additional things you could try to implement, including wrapping the script in a Flask server, checking for multiple login attempts and a facility to reset a password. What else can you make this code do?
 
 ## Contact
 
@@ -26,6 +28,4 @@ Any questions or issues can be raised via the [Github issues](https://github.com
 
 ## License 
 
-Copyright 2021 Scott Morgan
-
-Released under the [MIT License](https://opensource.org/licenses/MIT)
+Copyright Scott Morgan (2021). Released under the [MIT License](https://opensource.org/licenses/MIT)
