@@ -3,6 +3,7 @@
 ## Step 1 - Running the script
 
 - To run this script, click the 'Work in Repl.it' button above to open the Repl.it IDE. _**Note**: Make sure you sign into Repl first, as there can sometimes be bugs if you access it the other way around._
+
 - Once you are in the Repl.it IDE, press 'Run' at the top of the screen to run the program. 
  
 In its current state, this program takes allows a user to 'register' using a username and password, then stores those credentials in a database. **No attempt** is made to obscure or hide the login details, and as such the code is completely insecure.
