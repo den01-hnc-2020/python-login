@@ -12,7 +12,7 @@ In its current state, this program takes allows a user to 'register' using a use
 
 The first step in securing our login procedure is to hide the password from view when we type it in. There are a few ways of doing this, the most common of which on command-line applications is to obscure it completely, so it looks like you're not even typing. This is the standard practice on the Linux terminal and it's what we're going to implement below. You will only be making changes to `main.py` in this section and we will be using the `getpass` Pythonm library. You can read more about `getpass` [here](https://docs.python.org/3/library/getpass.html).
 
-- Open `main.py` and insert the line `import getpass` at the top of the file.
+- Open `main.py` and insert the line `from getpass import getpass` at the top of the file.
 
 - Replace the lines where the password is obtained with the correct syntax for `getpass`.
 
