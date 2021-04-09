@@ -51,4 +51,4 @@ Any questions or issues can be raised via the [Github issues](https://github.com
 
 ## License 
 
-Copyright Scott Morgan (2021). Released under the [MIT License](https://opensource.org/licenses/MIT)
+Copyright Scott Morgan (2021). Released under the [MIT License](https://opensource.org/licenses/MIT).
